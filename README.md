@@ -8,7 +8,10 @@ my Elasticsearch training repository
 
 ## Installation
 
-this jar requires **Java8**.
+Maven Build requires **Java8**.
+
+1. Run Maven Build and Generate jar file.
+2. Run java command by `java -jar target/tokyometro-elasticsearch-client-1.0-SNAPSHOT-jar-with-dependencies.jar -ck [cunsumer key] -ea [Elasticsearch ip address]`.
 
 You can specify following options:
 * `-ck [consumer key]`
