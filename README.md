@@ -2,17 +2,17 @@
 
 my Elasticsearch training repository
 
-### tokyo metro open data
+## tokyo metro open data
 
 * https://developer.tokyometroapp.jp/info
 
-### Installation
+## Installation
 
 this jar requires **Java8**.
 
-* `-ck`
+* `-ck [consumer key]`
   * as tokyo metro consumer key. *Required*
-* `-ea`
+* `-ea [ip address]`
   * as Elasticsearch ip address. *Required*
-* `-ep`
+* `-ep [port]`
   * as Elasticsearch port. *optional* default port 9300.
