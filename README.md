@@ -10,6 +10,7 @@ my Elasticsearch training repository
 
 this jar requires **Java8**.
 
+You can specify following options:
 * `-ck [consumer key]`
   * as tokyo metro consumer key. **Required**
 * `-ea [ip address]`
