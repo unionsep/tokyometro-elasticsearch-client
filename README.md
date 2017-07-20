@@ -11,8 +11,8 @@ my Elasticsearch training repository
 this jar requires **Java8**.
 
 * `-ck [consumer key]`
-  * as tokyo metro consumer key. *Required*
+  * as tokyo metro consumer key. **Required**
 * `-ea [ip address]`
-  * as Elasticsearch ip address. *Required*
+  * as Elasticsearch ip address. **Required**
 * `-ep [port]`
-  * as Elasticsearch port. *optional* default port 9300.
+  * as Elasticsearch port. **optional** default port is `9300`.
